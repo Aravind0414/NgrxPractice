@@ -1,0 +1,2 @@
+# NgrxPractice
+Practice NGRX project
